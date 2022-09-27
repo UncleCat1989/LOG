@@ -1,0 +1,10 @@
+8-10
+
+-Iris:N=150, C=3,D=4
+-House.ppm
+
+
+
+Sep 27
+
+-Book Club:使用label的icon加入图标时，选择import to object则运行出错，不选择直接导入则正常
