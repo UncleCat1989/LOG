@@ -12,3 +12,7 @@ conda install spyder-kernels scikit-learn -y
 然后preferences->Python interpreter ->User the following Python interpreter
 /Applications/anaconda3/envs/spyder-env/bin/python <-I chose this
 还需要安装别的插件如matplotlib，这时打开spyder在控制台使用conda install matplotlib即可
+
+
+Dec 1
+-pyclusteringの実装ができません
