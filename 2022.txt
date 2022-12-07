@@ -1,7 +1,10 @@
 Sep 27
+
 -Book Club:使用label的icon加入图标时，选择import to object则运行出错，不选择直接导入则正常
+
 Oct 5
 -java的变量类似funCalculate如果单机鼠标默认选中变量大写开头的那一部分就好了
+
 Nov 3
 -Q:当脱离anaconda环境独立安装spyder时一些module如sklearn或者matploblib的时候无法使用
 在存在anaconda的情况下，在命令行使用：
@@ -16,3 +19,9 @@ conda install spyder-kernels scikit-learn -y
 
 Dec 1
 -pyclusteringの実装ができません
+
+Dec 6
+所有的python版本均已卸载，从今天开始安装时一定要记录位置。
+
+Dec 7
+Q:
